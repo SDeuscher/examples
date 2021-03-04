@@ -1,4 +1,31 @@
-# CS3560 - Example Project
+# CS3560 - Example Project - Pull Request Practice
+
+First we will learn to create pull requests so that everyone can practice 
+documentation on their own.
+
+## Step 1
+- Go to the repository and fork it so that you have a local version to work on.
+
+## Step 2
+- Create a new branch.
+
+## Step 3
+- Document the files with Doxygen.
+
+## Step 4
+- Once completed, add, commit, and push your changes.
+
+## Step 5
+- Go to the repository on GitHub.
+
+## Step 6
+- Click on "New pull request" and compare the changes across forks.
+
+## Step 7
+- Select the main branch for the first one and the new branch in your repository as the second one.
+
+## Step 8
+- Create the request with a meaningful message.
 
 Example project that uses Doxygen, Makefile, Catch2, Travis CI.
 
